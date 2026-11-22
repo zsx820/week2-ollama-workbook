@@ -1,0 +1,2 @@
+Our database restarts nightly at 08:05, brief timeouts then are expected.
+The report worker has a known memory leak; ticket IT-142 is open.
